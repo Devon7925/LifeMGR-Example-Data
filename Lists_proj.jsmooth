@@ -33,7 +33,7 @@ Please download it at http://www.java.com</value>
 </skeletonProperties>
 <skeletonProperties>
 <key>SingleInstance</key>
-<value>0</value>
+<value>1</value>
 </skeletonProperties>
 <skeletonProperties>
 <key>JniSmooth</key>
